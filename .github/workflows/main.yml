@@ -17,6 +17,6 @@ jobs:
           # XML dosyasını indirme komutunu burada yazın
           curl -o denem.com.tr.xml https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml
           # Güncellenen XML dosyasını yeniden commit edip push yaparak güncellemeyi tamamlayabilirsiniz
-          git add deneme.com.tr.xml
+          git add denem.com.tr.xml
           git commit -m "XML dosyasını güncelle"
           git push
