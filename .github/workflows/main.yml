@@ -1,0 +1,22 @@
+name: Otomatik XML Güncelleme
+
+on:
+  schedule:
+    - cron: "0 0 */4 * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Repo Klonlama
+        uses: actions/checkout@v2
+        
+      - name: XML Güncelleme
+        run: |
+          # XML dosyasını indirme komutunu burada yazın
+          curl -o denem.com.tr.xml https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml
+          # Güncellenen XML dosyasını yeniden commit edip push yaparak güncellemeyi tamamlayabilirsiniz
+          git add deneme.com.tr.xml
+          git commit -m "XML dosyasını güncelle"
+          git push
