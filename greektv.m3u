@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 CUID="1" tvg-name="ERT1 HD" tvg-id="ert1.plus3" tvg-logo="https://data.greektv.ml/logos/ert1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
+#EXTINF:0 CUID="1" tvg-name="ERT1 HD" tvg-id="ert1" tvg-logo="https://data.greektv.ml/logos/ert1.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
-#EXTINF:0 CUID="2" tvg-name="ERT2 HD" tvg-id="ert2.plus3" tvg-logo="https://data.greektv.ml/logos/ert2.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
+#EXTINF:0 CUID="2" tvg-name="ERT2 HD" tvg-id="ert2" tvg-logo="https://data.greektv.ml/logos/ert2.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8
 #EXTINF:0 CUID="3" tvg-name="ERT3 HD" tvg-id="ert3" tvg-logo="https://data.greektv.ml/logos/ert3.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8
