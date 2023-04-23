@@ -22,7 +22,7 @@ https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b
 #EXTINF:0 CUID="24" tvg-name="KANAL 7 AVRUPA" tvg-ID="kanal7avrupa.tr" tvg-logo="http://3.bp.blogspot.com/--rXiyTlLwEo/VpjHgz6M3dI/AAAAAAAANvQ/rJ6N3a3Y3FQ/s1600/kanal7avrupa.jpg" group-title="ULUSAL",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 CUID="25" tvg-name="TV8" tvg-ID="TV8.HD.tr" tvg-logo="https://logo.iptveditor.com/tv8.png" group-title="ULUSAL",TV8
-https://tv8.daioncdn.net/tv8/tv8_720p.m3u8
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=5c4argh5hazv&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:0 CUID="29" tvg-name="BEYAZ TV" tvg-ID="BEYAZ.TV.HD.tr" tvg-logo="https://logo.iptveditor.com/beyaztv.png" group-title="ULUSAL",BEYAZ TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 CUID="33" tvg-name="360TV" tvg-ID="360tv.tr" tvg-logo="https://logo.iptveditor.com/360.png" group-title="ULUSAL",360TV
