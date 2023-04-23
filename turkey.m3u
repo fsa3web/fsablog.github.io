@@ -52,7 +52,7 @@ https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 CUID="60" tvg-name="MECLİS TV" tvg-logo="http://3.bp.blogspot.com/-rWtkCanq478/VqnQNYOgYkI/AAAAAAAAPbY/SgaeXZkKzkc/s1600/trtmeclis.jpg" group-title="HABER",MECLİS TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 CUID="62" tvg-name="TELE 1" tvg-ID="TELE.1.HD.tr" tvg-logo="https://logo.iptveditor.com/tele1.png" group-title="HABER",TELE 1
-https://59c7ea6bec1c6.streamlock.net/live/tele1.stream/chunklist_w1377742997.m3u8?hash=3190751ae3eb1f5044a464cae6ff1bf9
+https://api.canlitvplayer.com/tele1.blutv.com/blutv_tele1_live/live_540p1250000kbps/index.m3u8?AuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:0 CUID="64" tvg-name="HALK TV" tvg-ID="Halk.TV.tr" tvg-logo="https://logo.iptveditor.com/halktv.png" group-title="HABER",HALK TV
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 #EXTINF:0 CUID="66" tvg-name="KANAL B" tvg-ID="kanalb.tr" tvg-logo="https://logo.iptveditor.com/kanalb.png" group-title="HABER",KANAL B
