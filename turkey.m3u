@@ -60,7 +60,7 @@ http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:0 CUID="68" tvg-name="YOL TV" tvg-logo="http://3.bp.blogspot.com/-wQkjbHHU9eQ/XO9mgPFgZVI/AAAAAAAAXiE/t9BzVFXzBDoQUPTnvlw5V-31Qo1priX2ACLcBGAs/s1600/yol.jpg" group-title="HABER",YOL TV
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:0 CUID="72" tvg-name="TV100" tvg-ID="TV.100.HD.tr" tvg-logo="https://logo.iptveditor.com/tv100.png" group-title="HABER",TV100
-https://59c7ea6bec1c6.streamlock.net/live/tv100.stream/chunklist_w1398142667.m3u8?hash=3190751ae3eb1f5044a464cae6ff1bf9
+https://api.canlitvplayer.com/tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0 CUID="74" tvg-name="CNN TÜRK" tvg-ID="CNN.TÜRK.HD.tr" tvg-logo="https://logo.iptveditor.com/cnntürk.png" group-title="HABER",CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 #EXTINF:0 CUID="76" tvg-name="NTV" tvg-ID="NTV.HD.tr" tvg-logo="https://logo.iptveditor.com/ntv.png" group-title="HABER",NTV
