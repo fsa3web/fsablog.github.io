@@ -54,7 +54,7 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:0 CUID="74" tvg-name="ALERT" tvg-id="alert" tvg-logo="https://logo.iptveditor.com/alerttv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:0 CUID="75" tvg-name="EPSILON TV" tvg-id="epsilon" tvg-logo="https://logo.iptveditor.com/epsilontv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPSILON TV
-https://edge1.mystream.gr/video427009/live/playlist.m3u8
+https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 #EXTINF:0 CUID="76" tvg-name="4E" tvg-id="4e" tvg-logo="https://logo.iptveditor.com/4e.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:0 CUID="77" tvg-name="TV 100" tvg-id="tv100" tvg-logo="https://logo.iptveditor.com/tv100.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TV 100
@@ -88,7 +88,7 @@ https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:0 CUID="91" tvg-name="EPIRUS TV1" tvg-id="epirustv1" tvg-logo="https://logo.iptveditor.com/epirustv1.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:0 CUID="92" tvg-name="TOP CHANNEL" tvg-id="topchannel" tvg-logo="https://logo.iptveditor.com/topchannel.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TOP CHANNEL
-https://eu1.netmax-host.eu:1936/topchannel/topchannel/playlist.m3u8
+http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:0 CUID="93" tvg-name="ALFA" tvg-id="alfa" tvg-logo="https://logo.iptveditor.com/alfa.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ALFA
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 #EXTINF:0 CUID="94" tvg-name="SYROS TV1" tvg-id="syrostv1" tvg-logo="https://logo.iptveditor.com/syrostv1.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",SYROS TV1
@@ -108,7 +108,7 @@ https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 #EXTINF:0 CUID="101" tvg-name="ORT TV" tvg-id="arttv" tvg-logo="https://logo.iptveditor.com/sporttv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ORT TV
 http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 #EXTINF:0 CUID="102" tvg-name="IRIDA TV" tvg-id="iridatv" tvg-logo="https://logo.iptveditor.com/iridatv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",IRIDA TV
-https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 #EXTINF:0 CUID="103" tvg-name="ETV" tvg-id="etv" tvg-logo="https://logo.iptveditor.com/etv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 #EXTINF:0 CUID="104" tvg-name="ED TV" tvg-logo="https://logo.iptveditor.com/zedtv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ED TV
@@ -118,7 +118,7 @@ https://til.pp.ua:3026/live/arttvgrlive.m3u8
 #EXTINF:0 CUID="106" tvg-name="ASTRA TV" tvg-id="astratv" tvg-logo="https://logo.iptveditor.com/astratv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ASTRA TV
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:0 CUID="107" tvg-name="PRO NEWS" tvg-id="pronews" tvg-logo="https://logo.iptveditor.com/euronews.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",PRO NEWS
-https://storemusic.top:8222/pronewstv/pronewstv/playlist.m3u8
+http://di-8zai2lrc.leasewebultracdn.com/pronews/ngrp:myStream_all/playlist.m3u8
 #EXTINF:0 CUID="108" tvg-name="LYCHNOS" tvg-id="lychnos" tvg-logo="https://logo.iptveditor.com/lychnos.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:0 CUID="109" tvg-name="PELLA TV" tvg-logo="https://logo.iptveditor.com/pellatv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",PELLA TV
@@ -126,7 +126,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:0 CUID="110" tvg-name="EGNATIA TV" tvg-logo="https://logo.iptveditor.com/egnatiatv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:0 CUID="111" tvg-name="PLP" tvg-logo="https://logo.iptveditor.com/plp.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",PLP
-https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:0 CUID="23" tvg-name="DIAVATA TV HD" tvg-logo="https://logo.iptveditor.com/tavaatv.png" group-title="WEB TV",DIAVATA TV HD
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:0 CUID="24" tvg-name="NAFTEMPORIKΙ TV" tvg-id="naftemporiki.gr" tvg-logo="https://i.imgur.com/n7sroRH.png" group-title="WEB TV",NAFTEMPORIKΙ TV
@@ -222,17 +222,17 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:0 CUID="54" tvg-name="WB KIDS" tvg-logo="https://logo.iptveditor.com/kids.png" group-title="ΠΑΙΔΙΚΑ",WB KIDS
 https://d807d636299c41678ab04e3ae475f818.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-Digitaltree/0dac99ff-0171-4204-809c-c5f65a660e05/0.m3u8
 #EXTINF:0 CUID="112" tvg-name="MAD TV" tvg-id="madtv" tvg-logo="https://logo.iptveditor.com/madtv.png" group-title="ΜΟΥΣΙΚΗ",MAD TV
-https://www.youtube.com/c/madtvgreece/live
+http://ythls.onrender.com/channel/UCs3cho4vcDuCze0tk3W9iVQ.m3u8
 #EXTINF:0 CUID="113" tvg-name="NRG TV" tvg-logo="https://logo.iptveditor.com/nrgtv.png" group-title="ΜΟΥΣΙΚΗ",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:0 CUID="114" tvg-name="BARAZA TV HD" tvg-logo="https://logo.iptveditor.com/baratv.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV HD
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:0 CUID="115" tvg-name="BARAZA TV HD Greek Hits" tvg-logo="https://i.imgur.com/gjf9q2g.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV HD Greek Hits
-https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:0 CUID="116" tvg-name="BARAZA TV RELAXING" tvg-logo="https://i.imgur.com/gjf9q2g.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:0 CUID="117" tvg-name="BARAZA TV Deep House Music" tvg-logo="https://i.imgur.com/gjf9q2g.png" group-title="ΜΟΥΣΙΚΗ",BARAZA TV Deep House Music
-https://ssh101.bozztv.com/ssh101/music/playlist.m3u8
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:0 CUID="118" tvg-name="PANIK TV" tvg-id="paniktv.gr" tvg-logo="https://i.imgur.com/KTtobgv.png" group-title="ΜΟΥΣΙΚΗ",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:0 CUID="119" tvg-name="NG TV" tvg-logo="https://logo.iptveditor.com/ngtv.png" group-title="ΜΟΥΣΙΚΗ",NG TV
