@@ -17,15 +17,15 @@ http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:0 CUID="9" tvg-name="SKAI HD" tvg-id="skai" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
-#EXTINF:0 CUID="10" tvg-name="OPEN TV HD" tvg-id="open" tvg-logo="https://data.greektv.ml/logos/openbeyond.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN TV HD
+#EXTINF:0 CUID="10" tvg-name="OPEN TV HD" tvg-id="open" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN TV HD
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:0 CUID="11" tvg-name="MAK. HD" tvg-logo="https://i.imgur.com/55NSQ50.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MAK. HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8
 #EXTINF:0 CUID="12" tvg-name="ANT1 EUROPE" tvg-id="ant1europe" tvg-logo="https://data.greektv.ml/logos/ant1europe.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 EUROPE
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
-#EXTINF:0 CUID="13" tvg-name="VOULI" tvg-id="voulitv" tvg-logo="https://data.greektv.ml/logos/voulitv.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI
+#EXTINF:0 CUID="13" tvg-name="VOULI" tvg-id="voulitv" tvg-logo="https://i.imgur.com/ToYaStx.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0 CUID="14" tvg-name="NETMAX TV" tvg-logo="https://logo.iptveditor.com/maxtv.png" group-title="CINEMA",NETMAX TV
+#EXTINF:0 CUID="14" tvg-name="NETMAX TV" tvg-logo="https://i.imgur.com/ObjxuGj.jpg" group-title="CINEMA",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:0 CUID="15" tvg-name="BCI CINEMA" tvg-logo="https://logo.iptveditor.com/cinema.png" group-title="CINEMA",BCI CINEMA
 https://channel.streams.ovh:19360/cetn/cetn.m3u8
@@ -33,17 +33,17 @@ https://channel.streams.ovh:19360/cetn/cetn.m3u8
 https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
 #EXTINF:0 CUID="17" tvg-name="CINEMA TIME" tvg-logo="https://logo.iptveditor.com/timecinema.png" group-title="CINEMA",CINEMA TIME
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:0 CUID="18" tvg-name="GALAXY GR" tvg-logo="https://logo.iptveditor.com/galaxy.png" group-title="CINEMA",GALAXY GR
+#EXTINF:0 CUID="18" tvg-name="GALAXY GR" tvg-logo="https://i.imgur.com/dwF0jlz.png" group-title="CINEMA",GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
-#EXTINF:0 CUID="19" tvg-name="NETV TORONTO HD" tvg-logo="https://logo.iptveditor.com/netvtoronto.png" group-title="CINEMA",NETV TORONTO HD
+#EXTINF:0 CUID="19" tvg-name="NETV TORONTO HD" tvg-logo="https://i.imgur.com/eLlhT4f.png" group-title="CINEMA",NETV TORONTO HD
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:0 CUID="20" tvg-name="GROOVY" tvg-logo="https://logo.iptveditor.com/groovy.png" group-title="CINEMA",GROOVY
+#EXTINF:0 CUID="20" tvg-name="GROOVY" tvg-logo="https://i.imgur.com/K6Glpip.png" group-title="CINEMA",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 CUID="21" tvg-name="CINEMA CLASSICS" tvg-logo="https://logo.iptveditor.com/cinemaclassics.png" group-title="CINEMA",CINEMA CLASSICS
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:0 CUID="22" tvg-name="DTV 6" tvg-logo="https://logo.iptveditor.com/tv6.png" group-title="CINEMA",DTV 6
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
-#EXTINF:0 CUID="70" tvg-name="ACTION 24" tvg-id="action24" tvg-logo="https://logo.iptveditor.com/action24.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ACTION 24
+#EXTINF:0 CUID="70" tvg-name="ACTION 24" tvg-id="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:0 CUID="71" tvg-name="KONTRA" tvg-id="kontra" tvg-logo="https://logo.iptveditor.com/kontra.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
