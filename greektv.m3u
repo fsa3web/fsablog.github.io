@@ -190,7 +190,7 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:0 CUID="63" tvg-name="ALPHA CY" tvg-id="alpha" tvg-logo="https://logo.iptveditor.com/alpha.png" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CY
 https://am3.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=30443543&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjMgNzo0MzoxMSBQTSZoYXNoX3ZhbHVlPUhSY041UVV6dEF6Nms3Q1J3WW9Canc9PSZ2YWxpZG1pbnV0ZXM9MzA=
 #EXTINF:0 CUID="64" tvg-name="OMEGA CY" tvg-id="omega" tvg-logo="https://logo.iptveditor.com/mega.png" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA CY
-http://l4.cloudskep.com/omegatv/omcy/playlist.m3u8
+https://am3.cloudskep.com/omegatv/omcy/l1/fhd/chunks.m3u8?nimblesessionid=30443890&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjMgNzo0NjowNiBQTSZoYXNoX3ZhbHVlPTQvRmZFUnI3Yjh6YUlBaTFNcnFQdXc9PSZ2YWxpZG1pbnV0ZXM9NjYw
 #EXTINF:0 CUID="65" tvg-name="FAROS TV CY" tvg-logo="https://i.imgur.com/v0mW64M.png" group-title="ΠΑΓΚΥΠΡΙΑ",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:0 CUID="66" tvg-name="FAROS TV2 CY" tvg-logo="https://i.imgur.com/v0mW64M.png" group-title="ΠΑΓΚΥΠΡΙΑ",FAROS TV2 CY
