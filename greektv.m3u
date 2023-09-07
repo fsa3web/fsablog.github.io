@@ -182,13 +182,13 @@ http://l6.cloudskep.com/rikcy/rik2/playlist.m3u8
 #EXTINF:0 CUID="59" tvg-name="RIK HD CY" tvg-id="rik1" tvg-logo="https://logo.iptveditor.com/rik.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK HD CY
 http://l6.cloudskep.com/rikcy/rikhd/playlist.m3u8
 #EXTINF:0 CUID="60" tvg-name="RIK SAT CY" tvg-logo="https://logo.iptveditor.com/riksat.png" group-title="ΠΑΓΚΥΠΡΙΑ",RIK SAT CY
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+https://am4.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=11364730&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjMgNzo0NDo1OCBQTSZoYXNoX3ZhbHVlPXN6RTVZeTdoTHBlRW5KMGJLQWJWWVE9PSZ2YWxpZG1pbnV0ZXM9MzA=
 #EXTINF:0 CUID="61" tvg-name="SIGMA CY" tvg-id="sigma" tvg-logo="https://logo.iptveditor.com/sigma.png" group-title="ΠΑΓΚΥΠΡΙΑ",SIGMA CY
 http://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:0 CUID="62" tvg-name="ANT1 CY" tvg-id="ant1" tvg-logo="https://logo.iptveditor.com/ant1.png" group-title="ΠΑΓΚΥΠΡΙΑ",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:0 CUID="63" tvg-name="ALPHA CY" tvg-id="alpha" tvg-logo="https://logo.iptveditor.com/alpha.png" group-title="ΠΑΓΚΥΠΡΙΑ",ALPHA CY
-http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIzIDg6MzU6NTIgQU0maGFzaF92YWx1ZT1zMFB1ZVhZOGlSdU03YzRHOS9FVmN3PT0mdmFsaWRtaW51dGVzPTM2MA==
+https://am3.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=30443543&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjMgNzo0MzoxMSBQTSZoYXNoX3ZhbHVlPUhSY041UVV6dEF6Nms3Q1J3WW9Canc9PSZ2YWxpZG1pbnV0ZXM9MzA=
 #EXTINF:0 CUID="64" tvg-name="OMEGA CY" tvg-id="omega" tvg-logo="https://logo.iptveditor.com/mega.png" group-title="ΠΑΓΚΥΠΡΙΑ",OMEGA CY
 http://l4.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:0 CUID="65" tvg-name="FAROS TV CY" tvg-logo="https://i.imgur.com/v0mW64M.png" group-title="ΠΑΓΚΥΠΡΙΑ",FAROS TV CY
