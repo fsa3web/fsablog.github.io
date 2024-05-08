@@ -42,7 +42,7 @@ https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:0 CUID="70" tvg-name="ACTION 24" tvg-id="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:0 CUID="71" tvg-name="KONTRA" tvg-id="kontra" tvg-logo="https://logo.iptveditor.com/kontra.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",KONTRA
-http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:0 CUID="72" tvg-name="ATTICA TV" tvg-id="atticatv" tvg-logo="https://logo.iptveditor.com/atticatv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ATTICA TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:0 CUID="73" tvg-name="HIGH TV" tvg-id="hightv" tvg-logo="https://logo.iptveditor.com/hightv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",HIGH TV
@@ -62,11 +62,11 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:0 CUID="80" tvg-name="CRETA" tvg-id="creta" tvg-logo="https://logo.iptveditor.com/creta.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:0 CUID="81" tvg-name="ENA CHANNEL" tvg-id="enachannel" tvg-logo="https://logo.iptveditor.com/enachannel.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ENA CHANNEL
-https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
+https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:0 CUID="82" tvg-name="DELTA TV" tvg-id="deltatv" tvg-logo="https://logo.iptveditor.com/deltatv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:0 CUID="83" tvg-name="THRAKINET" tvg-id="thrakinet" tvg-logo="https://logo.iptveditor.com/thrakinet.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",THRAKINET
-http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:0 CUID="84" tvg-name="IONIAN CHANNEL" tvg-id="ionianchannel.gr" tvg-logo="https://logo.iptveditor.com/ionianchannel.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:0 CUID="85" tvg-name="FORMEDIA TV" tvg-id="formediatv" tvg-logo="https://logo.iptveditor.com/komediatv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",FORMEDIA TV
@@ -98,7 +98,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:0 CUID="99" tvg-name="TILE EPILOGES" tvg-id="tileepiloges" tvg-logo="https://logo.iptveditor.com/epilogestv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:0 CUID="100" tvg-name="GNOMI TV" tvg-id="gnomitv" tvg-logo="https://logo.iptveditor.com/gnomitv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",GNOMI TV
-https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
+https://channel.streams.ovh:2020/VideoPlayer/gnomitv
 #EXTINF:0 CUID="102" tvg-name="IRIDA TV" tvg-id="iridatv" tvg-logo="https://logo.iptveditor.com/iridatv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",IRIDA TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 #EXTINF:0 CUID="103" tvg-name="ETV" tvg-id="etv" tvg-logo="https://logo.iptveditor.com/etv.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ETV
@@ -194,7 +194,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:0 CUID="53" tvg-name="KIDS TV" tvg-logo="https://logo.iptveditor.com/kidstv.png" group-title="ΠΑΙΔΙΚΑ",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:0 CUID="54" tvg-name="WB KIDS" tvg-logo="https://logo.iptveditor.com/kids.png" group-title="ΠΑΙΔΙΚΑ",WB KIDS
-https://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8
+https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 #EXTINF:0 CUID="112" tvg-name="MAD TV" tvg-id="madtv" tvg-logo="https://logo.iptveditor.com/madtv.png" group-title="ΜΟΥΣΙΚΗ",MAD TV
 http://ythls.onrender.com/channel/UCs3cho4vcDuCze0tk3W9iVQ.m3u8
 #EXTINF:0 CUID="113" tvg-name="NRG TV" tvg-logo="https://logo.iptveditor.com/nrgtv.png" group-title="ΜΟΥΣΙΚΗ",NRG TV
