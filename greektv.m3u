@@ -26,7 +26,7 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0 CUID="14" tvg-name="NETMAX TV" tvg-logo="https://i.imgur.com/ObjxuGj.jpg" group-title="CINEMA",NETMAX TV
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:0 CUID="15" tvg-name="Extacy Tv" tvg-logo="https://extacytv.gr/wp-content/uploads/2024/08/extacy-tv-new-logo.png" group-title="CINEMA",Extacy Tv
-https://nl.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:0 CUID="16" tvg-name="BCI GREEK" tvg-logo="https://i.imgur.com/wzk4Y0T.png" group-title="CINEMA",BCI GREEK
 https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
 #EXTINF:0 CUID="17" tvg-name="CINEMA TIME" tvg-logo="https://logo.iptveditor.com/timecinema.png" group-title="CINEMA",CINEMA TIME
