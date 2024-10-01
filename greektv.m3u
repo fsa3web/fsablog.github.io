@@ -14,7 +14,7 @@ https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/an
 #EXTINF:0 CUID="7" tvg-name="ALPHA HD" tvg-id="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:0 CUID="8" tvg-name="STAR HD" tvg-id="star" tvg-logo="https://i.imgur.com/zGpwulO.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
-http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:0 CUID="9" tvg-name="SKAI HD" tvg-id="skai" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:0 CUID="10" tvg-name="OPEN TV HD" tvg-id="open" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN TV HD
