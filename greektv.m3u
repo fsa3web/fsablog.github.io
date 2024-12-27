@@ -2,7 +2,7 @@
 #EXTINF:0 CUID="1" tvg-name="ERT1 HD SD" tvg-id="ert1" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/35599
 #EXTINF:0 CUID="2" tvg-name="ERT2 HD" tvg-id="ert2" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/35600
+https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
 #EXTINF:0 CUID="3" tvg-name="ERT3 HD" tvg-id="ert3" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/93024
 #EXTINF:0 CUID="4" tvg-name="ERT NEWS" tvg-id="ertnews" tvg-logo="https://i.imgur.com/XwLTzaF.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT NEWS
