@@ -10,7 +10,7 @@ https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
 #EXTINF:0 CUID="5" tvg-name="MEGA HD" tvg-id="mega" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/35637
 #EXTINF:0 CUID="6" tvg-name="ANT1 HD" tvg-id="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/35552
+https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:0 CUID="7" tvg-name="ALPHA HD" tvg-id="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:0 CUID="8" tvg-name="STAR HD" tvg-id="star" tvg-logo="https://i.imgur.com/zGpwulO.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
