@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 CUID="1" tvg-name="ERT1 HD SD" tvg-id="ert1" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT1 HD
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/35599
+https://eu5cdn.overotm.com/abr_amd10/ert1/playlist.m3u8
 #EXTINF:0 CUID="2" tvg-name="ERT2 HD" tvg-id="ert2" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT2 HD
 https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
 #EXTINF:0 CUID="3" tvg-name="ERT3 HD" tvg-id="ert3" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT3 HD
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/93024
 #EXTINF:0 CUID="4" tvg-name="ERT NEWS" tvg-id="ertnews" tvg-logo="https://i.imgur.com/XwLTzaF.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ERT NEWS
-https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
+https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:0 CUID="5" tvg-name="MEGA HD" tvg-id="mega" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MEGA HD
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/35637
 #EXTINF:0 CUID="6" tvg-name="ANT1 HD" tvg-id="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ANT1 HD
