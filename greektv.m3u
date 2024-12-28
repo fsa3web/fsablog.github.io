@@ -37,7 +37,7 @@ https://ssh101-fl.bozztv.com/ssh101/galaxygr/index.m3u8
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/chunklist_w514755166.m3u8
 #EXTINF:0 CUID="20" tvg-name="GROOVY" tvg-logo="https://i.imgur.com/K6Glpip.png" group-title="CINEMA",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:0 CUID="21" tvg-name="CINEMA CLASSICS" tvg-logo="https://logo.iptveditor.com/cinemaclassics.png" group-title="CINEMA",CINEMA CLASSICS
+#EXTINF:0 CUID="21" tvg-name="CINEMA CLASSICS" tvg-logo="https://i.imgur.com/STyrob9.jpg" group-title="CINEMA",CINEMA CLASSICS
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:0 CUID="70" tvg-name="ACTION 24" tvg-id="action24" tvg-logo="https://i.imgur.com/hNvAHzt.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
