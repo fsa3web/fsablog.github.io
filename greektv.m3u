@@ -19,8 +19,6 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:0 CUID="10" tvg-name="OPEN TV HD" tvg-id="open" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",OPEN TV HD
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:0 CUID="11" tvg-name="MAK. HD" tvg-logo="https://i.imgur.com/55NSQ50.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",MAK. HD
-https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:0 CUID="13" tvg-name="VOULI" tvg-id="voulitv" tvg-logo="https://i.imgur.com/ToYaStx.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",VOULI
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0 CUID="14" tvg-name="NETMAX TV" tvg-logo="https://i.imgur.com/ObjxuGj.jpg" group-title="CINEMA",NETMAX TV
